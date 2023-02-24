@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### create project 
+
+```npx create-react-app projectname```
+
+Note :- Project name Should be in lowercase
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -68,3 +74,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### For router need to install Router using following command 
+
+```
+npm - -D react-router-dom
+
+```
